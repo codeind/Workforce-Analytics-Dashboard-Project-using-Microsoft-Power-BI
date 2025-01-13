@@ -4,6 +4,8 @@
 This project involves the creation of an interactive **HR Analytics Dashboard** in Power BI to analyze and visualize key workforce metrics. The dashboard provides actionable insights into employee demographics, job-related statistics, and organizational trends, enabling data-driven decision-making for HR professionals. The interactive features of the dashboard allow users to filter and drill down into specific details, making it a powerful tool for human resource management.  
 
 ---
+![WhatsApp Image 2025-01-12 at 03 21 55](https://github.com/user-attachments/assets/122b038e-9a15-4221-bf6d-87105ca535b5)
+---
 
 ### **Key Features and Insights**  
 1. **Employee Demographics**  
@@ -64,9 +66,6 @@ This project involves the creation of an interactive **HR Analytics Dashboard** 
 - **Data Analytics:** Interpretation of workforce trends and deriving actionable insights.  
 - **Visualization Design:** Creating a user-friendly, interactive interface for HR professionals.  
 - **Time Series Analysis:** Tracking organizational growth and trends over time.
-
----
-![WhatsApp Image 2025-01-12 at 03 21 55](https://github.com/user-attachments/assets/122b038e-9a15-4221-bf6d-87105ca535b5)
 
 ---
 
