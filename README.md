@@ -66,6 +66,9 @@ This project involves the creation of an interactive **HR Analytics Dashboard** 
 - **Time Series Analysis:** Tracking organizational growth and trends over time.
 
 ---
+![WhatsApp Image 2025-01-12 at 03 21 55](https://github.com/user-attachments/assets/122b038e-9a15-4221-bf6d-87105ca535b5)
+
+---
 
 ### **Impact and Learnings**  
 - Improved understanding of workforce demographics, compensation structures, and leave utilization trends.  
